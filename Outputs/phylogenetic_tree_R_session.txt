@@ -1,0 +1,74 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 18362)
+
+Matrix products: default
+
+Random number generation:
+ RNG:     Mersenne-Twister 
+ Normal:  Inversion 
+ Sample:  Rounding 
+ 
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252 LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+system code page: 65001
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rotl_3.0.11          fishtree_0.3.4       caper_1.0.1         
+ [4] mvtnorm_1.1-1        MASS_7.3-53          phytools_0.7-70     
+ [7] RColorBrewer_1.1-2   maps_3.3.0           loo_2.4.1           
+[10] rstan_2.21.2         ggplot2_3.3.3        StanHeaders_2.21.0-7
+[13] plyr_1.8.6           geiger_2.0.7         dplyr_1.0.3         
+[16] brms_2.14.4          Rcpp_1.0.6           stringr_1.4.0       
+[19] MCMCglmm_2.32        ape_5.4-1            coda_0.19-4         
+[22] Matrix_1.2-18       
+
+loaded via a namespace (and not attached):
+  [1] backports_1.2.0         fastmatch_1.1-0         igraph_1.2.6           
+  [4] splines_4.0.3           storr_1.2.5             crosstalk_1.1.1        
+  [7] rncl_0.8.4              usethis_2.0.0           rstantools_2.1.1       
+ [10] inline_0.3.17           digest_0.6.27           htmltools_0.5.1.1      
+ [13] rsconnect_0.8.16        checkmate_2.0.0         magrittr_2.0.1         
+ [16] memoise_2.0.0           remotes_2.2.0           RcppParallel_5.0.2     
+ [19] matrixStats_0.58.0      xts_0.12.1              prettyunits_1.1.1      
+ [22] colorspace_2.0-0        rvest_0.3.6             xfun_0.20              
+ [25] callr_3.5.1             crayon_1.4.0            jsonlite_1.7.2         
+ [28] lme4_1.1-26             zoo_1.8-8               phangorn_2.5.5         
+ [31] glue_1.4.2              gtable_0.3.0            V8_3.4.0               
+ [34] pkgbuild_1.2.0          rentrez_1.2.3           abind_1.4-5            
+ [37] scales_1.1.1            DBI_1.1.1               miniUI_0.1.1.1         
+ [40] plotrix_3.8-1           progress_1.2.2          xtable_1.8-4           
+ [43] tmvnsim_1.0-2           subplex_1.6             deSolve_1.28           
+ [46] stats4_4.0.3            DT_0.17                 httr_1.4.2             
+ [49] htmlwidgets_1.5.3       threejs_0.3.3           ellipsis_0.3.1         
+ [52] XML_3.99-0.5            pkgconfig_2.0.3         tidyselect_1.1.0       
+ [55] rlang_0.4.10            reshape2_1.4.4          later_1.1.0.1          
+ [58] munsell_0.5.0           tools_4.0.3             cachem_1.0.1           
+ [61] cli_2.3.0               generics_0.1.0          remake_0.3.0           
+ [64] devtools_2.3.2          ggridges_0.5.3          fastmap_1.1.0          
+ [67] yaml_2.2.1              processx_3.4.5          fs_1.5.0               
+ [70] purrr_0.3.4             nlme_3.1-149            mime_0.9               
+ [73] projpred_2.0.2          xml2_1.3.2              rstudioapi_0.13        
+ [76] compiler_4.0.3          bayesplot_1.8.0         shinythemes_1.2.0      
+ [79] curl_4.3                gamm4_0.2-6             testthat_3.0.1         
+ [82] clusterGeneration_1.3.7 tibble_3.0.5            statmod_1.4.35         
+ [85] stringi_1.5.3           ps_1.5.0                desc_1.2.0             
+ [88] Brobdingnag_1.2-6       cubature_2.0.4.2        lattice_0.20-41        
+ [91] nloptr_1.2.2.2          markdown_1.1            shinyjs_2.0.0          
+ [94] tensorA_0.36.2          vctrs_0.3.6             pillar_1.4.7           
+ [97] lifecycle_0.2.0         combinat_0.0-8          bridgesampling_1.0-0   
+[100] corpcor_1.6.9           httpuv_1.5.5            R6_2.5.0               
+[103] promises_1.1.1          gridExtra_2.3           sessioninfo_1.1.1      
+[106] codetools_0.2-16        boot_1.3-25             colourpicker_1.1.0     
+[109] gtools_3.8.2            assertthat_0.2.1        pkgload_1.1.0          
+[112] rprojroot_2.0.2         withr_2.4.1             shinystan_2.5.0        
+[115] mnormt_2.0.2            hms_1.0.0               mgcv_1.8-33            
+[118] expm_0.999-6            parallel_4.0.3          quadprog_1.5-8         
+[121] grid_4.0.3              minqa_1.2.4             numDeriv_2016.8-1.1    
+[124] scatterplot3d_0.3-41    shiny_1.6.0             base64enc_0.1-3        
+[127] dygraphs_1.1.1.6        tinytex_0.29           
