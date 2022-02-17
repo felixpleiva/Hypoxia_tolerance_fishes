@@ -4,7 +4,9 @@ This repository contains code and data needed to reproduce the manuscript: Verbe
 
 ## Cite the repository as:
 
-Verberk WCEP, Leiva FP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ (2022). Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner (1.0). Zenodo.10.5281/zenodo.6123771 
+Verberk WCEP, Leiva FP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ (2022). Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner (1.0). Zenodo.https://doi.org/10.5281/zenodo.6123771
+
+ 
 
 ## Notes:
 All processing was done in R. The R folder contains the scripts to reproduce the analyzes and generate tables and figures presented in the manuscript. The outputs folder contains the output files of each R scripts.   
