@@ -1,4 +1,4 @@
-# Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner
+# Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner
  
 This repository contains code and data needed to reproduce the manuscript: "Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner" by Verberk et al. 2022.
 
