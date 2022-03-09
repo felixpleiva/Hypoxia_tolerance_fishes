@@ -1,6 +1,6 @@
 # Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner
  
-This repository contains code and data needed to reproduce the manuscript: Verberk WCEP, Sandkler JF, van de Pol I, Urbina M, Wilson R, McKenzie DJ, Leiva FP. Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner.
+This repository contains code and data needed to reproduce the manuscript: "Body mass and genome size shape the tolerance of fishes to low oxygen in a temperature-dependent manner" by Verberk et al. 2022.
 
 ## Cite the repository as:
 
