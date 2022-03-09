@@ -2,14 +2,14 @@
 # Script to fit phylogenetic multilevel model using brms
 # Author: Félix P Leiva (felixpleiva@gmail.com)
 # Date: 20220304
-# Modifications: Wilco CEP Verberk (20220304); Félix P Leiva (20210920 )
+# Modifications: Wilco CEP Verberk (20220304); Félix P Leiva (20210920)
 # ------------------------------------------------------------------------------
 # Cite as:
 
 #Verberk WCEP, Sandkler JF, van de Pol I, Urbina M, Wilson R,
 #McKenzie DJ, Leiva FP (2022). Data and code of manuscript: Hypoxia
 #tolerance in fish varies with body size and cell size in a
-#temperature-dependent manner (). Zenodo ().
+#temperature-dependent manner (1.0). Zenodo ().
 # ------------------------------------------------------------------------------
 rm(list=ls()) #clear the work environment
 today<-format(Sys.Date(),"%Y%m%d") #setting the date
