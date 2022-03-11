@@ -6,7 +6,7 @@ Verberk WCEP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ & Leiv
 
 ## Cite the repository as:
 
-Verberk WCEP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ & Leiva FP (2022). Draft version of paper data and code of manuscript: Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner (1.0). Zenodo. https://doi.org/10.5281/zenodo.6123770.
+Verberk WCEP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ & Leiva FP (2022). Draft version of paper data and code of manuscript: Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner. Zenodo. https://doi.org/10.5281/zenodo.6123770.
  
 ## Notes:
 All processing was done in R. The R folder contains the scripts to reproduce the analyzes and generate tables and figures presented in the manuscript. The outputs folder contains the output files of each R scripts.   
