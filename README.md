@@ -15,7 +15,7 @@ All processing was done in R. The R folder contains the scripts to reproduce the
 The software and R packages associated with each script are enlisted in the corresponding R session files.
 
 ## Licence
-This repository is provided by the authors under the MIT License (https://opensource.org/licenses/MIT).
+This repository is provided by the authors under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Further information
 For any further information, please contact me: Félix P. Leiva, email: felixpleiva@gmail.com
