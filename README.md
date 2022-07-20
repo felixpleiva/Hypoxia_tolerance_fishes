@@ -2,7 +2,7 @@
  
 ## This repository contains code and data needed to reproduce figures and tables of the manuscript: 
 
-Verberk WCEP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ & Leiva FP (2022). Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner. Global Change Biology. DOI: 10.1111/gcb.16319.
+Verberk WCEP, Sandkler JF, van del Pol I, Urbina M, Wilson R, McKenzie DJ & Leiva FP (2022). Body mass and cell size shape the tolerance of fishes to low oxygen in a temperature-dependent manner. Global Change Biology. https://doi.org/10.1111/gcb.16319.
 
 ## Cite the repository as:
 
