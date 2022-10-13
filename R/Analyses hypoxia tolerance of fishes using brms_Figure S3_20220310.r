@@ -8,6 +8,7 @@ rm(list=ls()) #clear the work environment
 today<-format(Sys.Date(),"%Y%m%d") #setting the date
 ################################################################################
 setwd("C:/Users/Invunche/Dropbox/collaboration/Jeroen/Outputs") #Felix's lab PC
+setwd("C:/Users/Invunche/Dropbox/Publications/2022_Hypoxia tolerance in fishes/Outputs") #Felix's lab PC
 getwd()#to check
 ################################################################################
 #Libraries
@@ -245,7 +246,13 @@ input <- c(
 # Plot
 upset(fromExpression(input*100), 
       nintersects = 6, 
-      intersections = list(list("Marginal","Phylogeny","Species"),list("Marginal","Phylogeny"),list("Marginal","Species"),list("Phylogeny","Species"),list("Species"),list("Phylogeny"),list("Marginal")),
+      intersections = list(list("Marginal","Phylogeny","Species"),
+                           list("Marginal","Phylogeny"),
+                           list("Marginal","Species"),
+                           list("Phylogeny","Species"),
+                           list("Species"),
+                           list("Phylogeny"),
+                           list("Marginal")),
       nsets = 3, 
       order.by = "freq", 
       mainbar.y.label = "Explained variation (%)",
